@@ -1,1 +1,1 @@
-An application to use Instagram his instagram account and display the pictures in AR.
+An application to use his instagram account and display the pictures in AR.
